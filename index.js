@@ -17,9 +17,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_AjnDVQk5t4vG4r0enJUouIRTqQzLnKfxId0sa5Frayf";
-const capikey = "ptla_q55m1t10dnvVD9x8h5Me9HXJhvmGAaGwUfDRyitZyA3";
-const domain = "https://haqixstore.private.pterohost.my.id";
+const apikey = "ptlc_e8DAqK5sAAGptvCmYlh2xptc6VAbWOTMeESLTz9wc6L";
+const capikey = "ptla_yaCitgy2vmuX1ja5ZUFmRx7yNq3MEF0Xqx7rE2Rrts7";
+const domain = "https://luffyprivate.rullzalifah.my.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";
