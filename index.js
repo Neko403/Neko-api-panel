@@ -17,9 +17,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_IsMiEmApW3MPzbSl9AEnl1w1zC8zPzWPokxzE2DMMdk";
-const capikey = "ptla_Tw4QJX1ZkBAaCo9equJKK9raF4coApZUVEz02CxjSNp";
-const domain = "https://marsyahcantik.alyabotz.my.id";
+const apikey = "ptlc_63tCPE7UGo5EPgrsqLNgi0ocMyy4r6D1koiXS4hGz54";
+const capikey = "ptla_QO3QCpY0REm4KlM4jMYAKqGAdhozHmYsRvkTM0DQ1LE";
+const domain = "https://mudzxunyilll.store-panell.my.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";
