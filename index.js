@@ -17,9 +17,9 @@ app.use(
 app.use(express.json());
 app.use(express.static(path.join(__dirname)));
 
-const apikey = "ptlc_Ctwjb6WsrtuGwT9BXSRZOJfHqyHBPGVzyrjsGMXZ3YY";
-const capikey = "ptla_LmXCqiqygfg4bQGNGbEy0XwBtKeheNtKValQEeUnzzX";
-const domain = "https://snapdragon.viagramc.my.id";
+const apikey = "ptlc_TO37mHC83XiTKKtYXeV4kePp12mz7ZsUJnc1PHb0Ysn";
+const capikey = "ptla_uuIDC8pPttVvtFHQimATMHueyDMvpA4RCP0fceJeAJ4";
+const domain = "https://paanel.web.id";
 const nestid = "5";
 const egg = "15";
 const loc = "1";
